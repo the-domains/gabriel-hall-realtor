@@ -1,0 +1,14 @@
+layout_spectrum: 0.9444444
+color:
+  saturation: 0.6717007
+  lightness: 0.2424981
+  brandStrength: 0.6891478
+  brandColors:
+    - '#222222'
+    - '#757575'
+    - '#3F3F3F'
+    - '#B0B0B0'
+    - '#FFFFFF'
+  rhythmicContrast: 0.3253004
+typography_spectrum: 0.7598566
+name: Gabriel Hall Realtor
